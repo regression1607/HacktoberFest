@@ -6,7 +6,7 @@ Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting in
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
-https://github.com/Ghosty-deep/Game-deployement.git
+https://github.com/thecodingcenter/HacktoberFest.git
 
 ## What is Hacktoberfest?
 
