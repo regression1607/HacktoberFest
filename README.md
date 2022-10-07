@@ -120,7 +120,7 @@ Don't forget to include the comments as seen above. Feel free to include additio
 Here is my `hello_world` example: [hello_world_anmolagarwal.js](https://github.com/fineanmol/hacktoberfest/blob/master/scripts/hello_world_anmol_agarwal.js)
 
 ## Our Contributors
-<p align="center"><a href="https://github.com/Ghosty-deep/Game-deployement">
+<p align="center"><a href="https://github.com/thecodingcenter/HacktoberFest/">
   <img src="https://contributors-img.web.app/image?repo=fineanmol/hacktoberfest" />
 </a></p>
 
