@@ -1,0 +1,31 @@
+Where To Play Free Games Online
+When it comes to online gaming, you don’t have to have the newest console or the latest titles to have fun. In fact, there are hundreds of thousands of free games available from your browser on your phone, computer or tablet. To find some of the best free classic and new games available online, check out the websites below.
+
+Website	Best For	Types of Games
+247 Games	Classic games, card games and puzzles	Online (computer browser)
+Mobile (phone/tablet browser)
+Addicting Games	Single-player games	Online (computer browser)
+Downloadable (desktop)
+Mobile (phone/tablet browser)
+Agame	Games on multiple devices; single and multi-player online games	Online (computer browser)
+Mobile (phone/tablet browser)
+Armor Games	Games available as apps; MMO games	Online (computer browser)
+Mobile (App Store and Google Play)
+Big Fish Games	Downloadable games and apps	Online (computer browser)
+Downloadable (desktop)
+Mobile (phone/tablet browser, App Store and Google Play)
+CrazyGames	Non-intrusive ads, online and mobile games	Online (computer browser)
+Mobile (phone/tablet browser)
+Free Online Games (FOG)	Independently-developed games; Mobile-browser-friendly games	Online (computer browser)
+Mobile (phone/tablet browser)
+Kongregate	Independently-developed games, apps and community	Online (computer browser)
+Mobile (App Store and Google Play)
+MiniClip	Multiplayer games; 1v1 (one-versus-one) games	Online (computer browser)
+Mobile (phone/tablet browser, App Store and Google Play)
+MSN Games	Classic puzzles, casino games and card games	Online (computer browser)
+Mobile (phone/tablet browser)
+Pogo	Hasbro and PopCap games	Online (computer browser)
+Mobile (phone/tablet browser)
+Shockwave	Free trials of downloadable games	Online (computer browser)
+Downloadable (desktop)
+In each section below, you’ll find information on how to start playing games as well as the biggest pros and cons I found for each site.
