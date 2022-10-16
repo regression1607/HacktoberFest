@@ -1,0 +1,10 @@
+System Modules (originally known as System Building Blocks; the name was changed around 1961) are a DEC modular digital logic family which preceded the later FLIP CHIPs.[1] They connect to the units they are plugged into via a set of 22 gold-plated discrete pins along one edge.[2]
+
+They use transistor inverter circuits, with the transistors operating saturated, to avoid dependence on tight tolerances; they use -3V and 0V as logic levels. Intended for prototyping as well as production, they include design features intended to avoid damage. They are provided with design advice which includes loading rules and wiring instructions.[3]
+
+They were available in several compatible speed lines:
+
+4000-Series: the second series, nominally 500 KHz, but some 1 MHz[4]
+1000-Series: the original series, nominally 5 MHz[5]
+6000-Series: higher speeds, nominally 10 Mhz[6]
+8000-Series: very high speeds, nominally 30MHz[7]
