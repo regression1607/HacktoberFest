@@ -1,0 +1,22 @@
+import java.util.LinkedList;
+
+public class JavaCollections {
+    public static void main(String[] args) {
+        LinkedList<String> Name = new LinkedList<String>();
+        Name.add("Subash");
+        Name.add("Mandal");
+        Name.add("Jain");
+
+        System.out.println(Name);
+
+        int size = Name.size();
+        System.out.println(size);
+
+        Name.addFirst("Anjila");
+        System.out.println(Name);
+
+        Name.remove(3);
+        System.out.println(Name);
+
+    }
+}
